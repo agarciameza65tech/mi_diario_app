@@ -1,0 +1,61 @@
+hola negroide, como va la vida?
+me gusta esto de crear cosas
+
+[15:33:27]
+
+
+── 16:31 ──
+
+
+mas cuando las hago y me gustan jajaa
+
+[15:34:11]
+
+la app esta quedando como me gusta, sigo necesitando mas cosas que pulir, lo del tamanno de la letra, poder usar correctamente signos de acentuacion, quiza lo de los idiomas y correccion de texto, este quiza no pues la intencion no es de que esta app sea un editor de texto. es mas con la finalidad de escribir lo que sea, mi idea parte del significado de Aforismo, por eso el nombre de Aphorox.
+
+[15:36:15]
+
+ninguna de las apps que he intentado usar para tomar notas tiene esta sencilles. eso de tener que estar ingresando un titulo a una nota se me hace demasiado jaja, quizá exagero pero a veces solo quiero abrir una hoja y escribir, luego pierdo las ideas. creo que esta app va muy.
+otra cosa que debo checar es que pueda hacer copy-paste
+
+[15:38:07]
+
+tambien esta eso de la seguridad, no se que cosas tenga que realmente revisar en eso, son cosas que en mi mente estaré resolviendo conforme la marcha
+
+[15:38:54]
+Que chulada!!! esto va funcionando de maravilla, he hecho el test de cerrar la app, volverla abrir y que siga el texto previamente ingresado, bueno tambien le moví y obtuve un error por lo que regrese al codigo sin el cambio que hice jeje
+
+[15:43:15]
+
+hice el cambio, le he puesto el nombre de la app en la ventana y se ve rechulo
+
+[15:55:23]
+
+
+hemos hecho otros cambios, ya puedo aumentar el tamanno de las letras, que sea italica o normal y dos tipografias, creo inluire una tercera como la que usa en las terminales de linux
+
+[16:10:40]
+
+siguen las pruebas, ya puedo hacer lo de cambiar solo lo el texto seleccionado pero no para hacer el texto mas grande o chico
+
+
+[16:22:51]
+
+jhgjhfg
+
+[16:23:02]
+
+
+── 16:31 ──
+
+sigo sin poder correcgir lo de hacer mas grande el texto
+
+
+── 16:33 ──
+
+lo que si cambie fue el diseño de el time stamp, viendo que se esta poniendo en horario militar creo es tener la opcion de tener la otra de 12 horas
+
+── 16:34 ──
+
+pero va bien, me gusta como si esta funcionando esta cosa!!
+Im happy, me pone happy esto.
